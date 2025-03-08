@@ -162,17 +162,9 @@ Running the Project
 **Suggested Video:**\
 *Insert a short video demonstrating the webpage controlling the LED here.*\
 Demo
-<div style="display: flex; justify-content: center">
-  <div style="vertical-align: top;">
-    <video width="100%" controls>
-      <source src="./assets/demo-video.mp4" type="video/mp4">
-      Trình duyệt của bạn không hỗ trợ video.
-    </video>
-  </div>
-  <div style="vertical-align: top;">
-    <video width="100%" controls>
-      <source src="./assets/demo-wifi.mp4" type="video/mp4">
-      Trình duyệt của bạn không hỗ trợ video.
-    </video>
-  </div>
-</div>
+
+https://github.com/user-attachments/assets/08a85bfd-dfe4-495f-a330-0b47b906cb57
+
+
+https://github.com/user-attachments/assets/e06b3cba-3601-4e5c-a5e8-fec3db62334b
+
